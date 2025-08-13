@@ -63,7 +63,7 @@ A professional KYC (Know Your Customer) dashboard built with Next.js 14, featuri
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/itsAbhi04/project.git
 cd kyc-dashboard
 ```
 
